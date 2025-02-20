@@ -1,0 +1,25 @@
+.statCard {
+  flex: 1;
+  height: 150px;
+  background-color: #f9fafb;
+  border: 1px solid #eaecf0;
+  border-radius: 8px;
+}
+
+.percentage {
+  size: 38px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.statValue {
+  font-size: 24px;
+  font-weight: bold;
+  color: #1a1a1a;
+}
+
+.statLabel {
+  font-size: 14px;
+  color: #555;
+  margin-top: 4px;
+}

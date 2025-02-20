@@ -1,0 +1,54 @@
+/* WasteRapport.module.css */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 32px;
+  background-color: #f9fafb;
+}
+
+.section {
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  padding: 24px;
+  border-radius: 8px;
+}
+
+.sectionTitle {
+  font-size: 18px;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-bottom: 12px;
+}
+
+.sectionDescription {
+  font-size: 14px;
+  color: #555;
+  line-height: 1.5;
+}
+
+.statisticsContainer {
+  display: flex;
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.highlight {
+  background-color: #eef7e3;
+  padding: 12px;
+  border-left: 4px solid #6cbf40;
+  font-size: 14px;
+}
+
+.tableContainer {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.footerNote {
+  font-size: 14px;
+  color: #555;
+  margin-top: 16px;
+  line-height: 1.5;
+}

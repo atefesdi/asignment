@@ -1,0 +1,25 @@
+.table {
+  width: 100%;
+  margin-top: 12px;
+}
+
+.table th,
+.table td {
+  padding: 10px;
+  border: none;
+  text-align: left;
+}
+
+.table th {
+  background-color: #f2f4f7;
+  font-weight: 600;
+}
+
+.greenBadge {
+  background-color: #6cbf40;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 600;
+}
