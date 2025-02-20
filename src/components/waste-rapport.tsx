@@ -9,7 +9,6 @@ const { Title, Paragraph } = Typography
 const WasteRapport: React.FC = () => {
   return (
     <div className={styles.container}>
-      {/* Section 1 */}
       <Title level={3}>Afval rapport</Title>
       <Paragraph>
         In dit afval rapport vindt u een overzicht van alle afvalstromen, de

@@ -9,7 +9,6 @@ const { Title, Paragraph } = Typography
 const CSRDRapport = () => {
   return (
     <div className={styles.container}>
-      {/* Section 1 */}
       <Title level={3}>CSRD rapport</Title>
       <Paragraph>
         Dit rapport biedt een uitgebreid overzicht van verschillende aspecten
